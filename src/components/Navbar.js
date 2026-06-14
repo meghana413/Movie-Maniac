@@ -35,13 +35,13 @@ function Navbar() {
           <div className="toggle-thumb"></div>
         </button>
 
-        <Link to="/">
+        <Link to="/" className="movie_type">
           Popular <img src={fire} alt="fire emoji" className="navemoji" />{" "}
         </Link>
-        <Link to="/top_rated">
+        <Link to="/top_rated" className="movie_type">
           Top Rated <img src={star} alt="star emoji" className="navemoji" />
         </Link>
-        <Link to="/upcoming">
+        <Link to="/upcoming" className="movie_type">
           Upcoming <img src={blast} alt="blast emoji" className="navemoji" />
         </Link>
       </div>
