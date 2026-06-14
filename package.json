@@ -2,7 +2,7 @@
   "name": "Movie-Maniac",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/meghana413/Movie-Maniac",
+  "homepage": "https://meghana413.github.io/Movie-Maniac",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
