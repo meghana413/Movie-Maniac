@@ -1,0 +1,63 @@
+.theme-toggle {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 10px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark .movie_card {
+  background-color: #1e1e1e;
+  color: white;
+  border: 1px solid #333;
+}
+
+body.light .movie_card {
+  background-color: white;
+  color: black;
+  border: 1px solid #ddd;
+}
+
+body.dark .movie_filter_item {
+  background-color: #222;
+  color: white;
+}
+
+body.light .movie_filter_item {
+  background-color: #f3f3f3;
+  color: black;
+}
+
+body.dark .movie_filter_item.active {
+  background-color: #ffcc00;
+  color: black;
+}
+
+body.light .movie_filter_item.active {
+  background-color: #ffcc00;
+  color: black;
+}
+
+body.dark .movie_sorting {
+  background-color: #222;
+  color: white;
+  border: 1px solid #444;
+}
+
+body.light .movie_sorting {
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+}

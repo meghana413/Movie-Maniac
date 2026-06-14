@@ -1,0 +1,14 @@
+.app {
+  display: grid;
+  grid-template-rows: 80px auto;
+}
+
+body.dark {
+  background-color: #121212;
+  color: white;
+}
+
+body.light {
+  background-color: white;
+  color: black;
+}
