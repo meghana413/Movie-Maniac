@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 Movie Maniac - Movie Recommendation App
 
 A modern React-based movie browsing and recommendation web app where users can explore **Popular**, **Top Rated**, and **Upcoming** movies with a clean UI and dark/light mode support.
@@ -37,6 +36,7 @@ A modern React-based movie browsing and recommendation web app where users can e
 
 ## 📁 Project Structure
 
+```text
 MovieRecommendationApp/
 ├── node_modules/
 ├── public/
@@ -71,12 +71,10 @@ MovieRecommendationApp/
 ├── package-lock.json
 └── README.md
 
+```
+
 ---
 
 # Author
 
 Done by Meghana Palavalasa
-=======
-
-
->>>>>>> 207f1f39bce8fc7afb37f2361ee863880d908f87
