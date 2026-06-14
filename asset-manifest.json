@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Movie-Maniac/static/css/main.d12f0acf.css",
-    "main.js": "/Movie-Maniac/static/js/main.f627990e.js",
+    "main.js": "/Movie-Maniac/static/js/main.47c584f5.js",
     "static/js/453.6f6ef9de.chunk.js": "/Movie-Maniac/static/js/453.6f6ef9de.chunk.js",
     "static/media/fire.png": "/Movie-Maniac/static/media/fire.d86667f7b092ec2d6d04.png",
     "static/media/blast.png": "/Movie-Maniac/static/media/blast.e2f7ee893bb6a960a10e.png",
     "static/media/smiley.png": "/Movie-Maniac/static/media/smiley.0fcbf6b111b5820273ea.png",
     "index.html": "/Movie-Maniac/index.html",
     "main.d12f0acf.css.map": "/Movie-Maniac/static/css/main.d12f0acf.css.map",
-    "main.f627990e.js.map": "/Movie-Maniac/static/js/main.f627990e.js.map",
+    "main.47c584f5.js.map": "/Movie-Maniac/static/js/main.47c584f5.js.map",
     "453.6f6ef9de.chunk.js.map": "/Movie-Maniac/static/js/453.6f6ef9de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d12f0acf.css",
-    "static/js/main.f627990e.js"
+    "static/js/main.47c584f5.js"
   ]
 }
